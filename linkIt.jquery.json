@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Susan Shemin",
+        "url": "http://www.masterthewebdesign.com"
+    },
+    "maintainers": [
+        {
+            "name": "Susan Shemin",
+            "email": "joyseeker18@gmail.com",
+            "url": "http://www.masterthewebdesign.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/joyseeker/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/joyseeker/jquery.linkIt",
+    "docs": "https://github.com/joyseeker/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
